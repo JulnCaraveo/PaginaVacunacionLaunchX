@@ -1,0 +1,377 @@
+.div1{
+    background-color: white;
+    height: 150px;
+    width: 965px;
+}
+#vaccination{
+    font-size: 23px;
+    
+}
+.fuente1{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: blue;
+}
+.encabezado{
+    background-color:rgb(233, 242, 250);
+    height: 150px;
+    width: 2000px;
+}
+#posicionvaccination{
+    position: absolute;
+    top: 45px;
+    left: 175px;
+}
+.fuente2{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(131, 130, 130);
+    font-size: 25px;
+}
+#posiciondatabase{
+    position: absolute;
+    left: 790px;
+    top: 65px;
+}
+#posicioneducation{
+    position: absolute;
+    left: 970px;
+    top: 65px;
+}
+#posicionnews{
+    position: absolute;
+    left: 1150px;
+    top: 65px;
+}
+#posicionregulation{
+    position: absolute;
+    left: 1275px;
+    top: 65px;
+}
+.botonhoax{
+    background-color: rgb(58, 58, 236);
+    height: 75px;
+    width: 250px;
+    border-radius: 10px;
+    border: none;
+}
+#posicionhoax{
+    position: absolute;
+    left: 1450px;
+    top: 60px;
+}
+#colorhoax{
+    color: white;
+}
+
+.section2{
+    background-color:red;
+    width: 2000px;
+    height: 1000px;
+}
+.divfight{
+    background-color:white;
+    width: 965px;
+    height: 1000px;
+}
+.divinyeccion{
+    position: absolute;
+    left: 972px;
+    top: 160px;
+    background-color:rgb(76, 131, 250);
+    width: 1035px;
+    height: 1050px;
+}
+.divencima{
+    position: absolute;
+    top: 900px;
+    left: 100px;
+    background-color: white;
+    width: 1800px;
+    height: 200px;
+}
+.enfermera{
+    position: inherit;
+    top: 100px;
+    width: 1000px;
+    height: 900px;
+}
+.triangulo{
+    position: absolute;
+    top: 151px;
+    left: 100px;
+    width: 200px;
+    height: 200px;
+    background-color: rgba(0, 0, 255, 0.055);
+   border-bottom-left-radius: 100px;
+   border-bottom-right-radius: 100px;
+}
+.luchavirus{
+    color: rgb(5, 5, 92);
+    font-size: 60px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    position:relative;
+    top: 200px;
+    left: 70px;
+}
+.parrafo1{
+    color: rgb(5, 5, 92);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    position:relative;
+    left: 40px;
+    top: 200px;
+    word-wrap:break-word;
+}
+.programatuvacunacion{
+    color: rgb(5, 5, 92);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    position:relative;
+    left: 40px;
+    top: 200px;
+}
+#posicionlocacion{
+    position:relative;
+    left: 150px;
+    top: 10px;
+}
+#posicionlugar{
+    position:relative;
+    left: 150px;
+    top: 10px;
+}
+#posiciondia{
+    position:relative;
+    left: 500px;
+    top: -90px;
+}
+#posicionfecha{
+    position:relative;
+    left: 500px;
+    top: -90px;
+}
+#posiciontipodevacuna{
+    position:relative;
+    left: 800px;
+    top: -190px;
+}
+#posiciontipo{
+    position:relative;
+    left: 800px;
+    top: -190px;
+}
+#posicionregistrarse{
+    position:relative;
+    left: 1100px;
+    top: -250px;
+}
+.logosvacunas{
+    background-color: rgba(0, 0, 0, 0.070);
+    width: 2000px;
+    height: 200px;
+}
+.posicionaztra{
+    width: 300px;
+    height: 300px;
+    position:absolute;
+    left: 150px;
+    top: 1150px;
+}
+.posicionmoderna{
+    width: 300px;
+    height: 200px;
+    position:relative;
+    left: 600px;
+    top: 10px;
+}
+.posicionpfizer{
+    width: 300px;
+    height: 200px;
+    position:relative;
+    left: 700px;
+    top: 0px;
+}
+.posicionsinovac{
+    width: 300px;
+    height: 200px;
+    position:relative;
+    left: 800px;
+    top: 0px;
+}
+.deberiavacunarme{
+    position: absolute;
+    background-color: rgba(80, 78, 78, 0.07);
+    width: 2000px;
+    height: 500px;
+}
+.porquedeberia{
+    color: rgb(5, 5, 92);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    position: relative;
+    left: 40px;
+    top: 50px;
+}
+.parrafo2{
+    color: rgb(5, 5, 92);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    position:relative;
+    left: 40px;
+    top: 70px;
+}
+.beneficios{
+    position: absolute;
+    top: 1910px;
+    background-color: rgba(80, 78, 78, 0.07);
+    width: 2000px;
+    height: 500px;
+}
+.beneficio1{
+    color: rgb(5, 5, 92);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    width: 200px;
+    height: 300px;
+    position: relative;
+    left: 200px;
+    top: 50px;
+}
+.beneficio2{
+    color: rgb(5, 5, 92);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    width: 200px;
+    height: 300px;
+    position: relative;
+    left: 600px;
+    top: -270px;
+}
+.beneficio3{
+    color: rgb(5, 5, 92);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    width: 200px;
+    height: 300px;
+    position: relative;
+    left: 1000px;
+    top: -600px;
+}
+.beneficio4{
+    color: rgb(5, 5, 92);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    width: 200px;
+    height: 300px;
+    position: relative;
+    left: 1400px;
+    top: -930px;
+}
+.preparacion{
+    background-color: rgba(80, 78, 78, 0.07);
+    width: 2000px;
+    height: 1000px;
+    position: absolute;
+    top: 2412px;
+    
+}
+.div1preparacion{
+    position: relative;
+    float: left;
+    width: 1000px;
+    height: 1000px;
+}
+.div2preparacion{
+    position: relative;
+    float: right;
+    width: 1000px;
+    height: 1000px;
+}
+.posicionseñalando{
+    width: 950px;
+    height: 800px;
+    position: absolute;
+    left: 0px;
+    top: 200px;
+}
+.preparacionantes{
+    color: rgb(5, 5, 92);
+    width: 900px;
+    height: 300px;
+}
+.detail{
+    position: relative;
+    top:40px ;
+    left: 100px;
+}
+.emergencia{
+    position: relative;
+    top: 2000px;
+    width: 2000px;
+    height: 1000px;
+}
+.div1emergencia{
+    position: relative;
+    float: left;
+    width: 1000px;
+    height: 1000px;
+}
+.div2emergencia{
+    position: relative;
+    float: right;
+    width: 1000px;
+    height: 1000px;
+}
+.telefonos1{
+    color:rgb(5, 5, 92) ;
+    position: relative;
+    float: left;
+    top: 100px;
+    width: 500px;
+    height: 567px;
+    
+}
+.telefonos2{
+    color: rgb(5, 5, 92);
+    position: relative;
+    float: right;
+    top: 100px;
+    width: 500px;
+    height: 567px;
+    
+}
+.tamañotelefono{
+    position: relative;
+    left: 80px;
+    top: 100px;
+    font-size: 30px;
+}
+.bottonllamar{
+    background-color: blue; 
+    position: relative;
+    top: 100px;
+    left: 80px;
+    border-radius: 25px;
+}
+.arribaemergencia{
+    width: 500px;
+    height: 300px;
+}
+.abajoemergencia{
+    background-color: rgb(76, 131, 250);
+    width: 1000px;
+    height: 600px;
+}
+.llamada{
+    width: 700px;
+    height: 800px;
+    position: relative;
+    left: 300px;
+    top: -200px;
+}
+.footer{
+    background-color: rgba(128, 128, 128, 0.301);
+    position: absolute;
+    top: 4450px;
+    width: 2000px;
+    height: 400px;
+}
